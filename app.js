@@ -61,7 +61,7 @@ function showError(error) {
   const card = document.querySelector('.card');
   const heading = document.querySelector('.heading');
 
-  // Add class
+  // Add a class
   errorDiv.className = 'alert alert-danger';
 
   // Create text node and append to div
